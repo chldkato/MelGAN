@@ -49,3 +49,10 @@ logs 폴더에 1200 epoch까지 학습한 모델이 있습니다
 
 #### Spectrogram example
 ![spectrogram-0](https://user-images.githubusercontent.com/49984198/78754810-1bc19600-79b3-11ea-9240-e421a1821cdb.png)
+
+
+윈도우에서 MelGAN 학습하기
+  * https://chldkato.tistory.com/144
+
+MelGAN 정리
+  * https://chldkato.tistory.com/142
